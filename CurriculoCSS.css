@@ -1,0 +1,48 @@
+*{
+    padding: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgba(55, 106, 118, 0.668);
+}
+.jel{
+    width: 1000px;
+    background-color: rgba(12, 116, 219, 0.492);
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+.impor{
+    background-color: rgba(42, 111, 118, 0.704);
+    width: 1000px;
+    margin: auto;
+    padding: 7px;
+    text-align: left;
+    border-bottom: solid black;
+}
+ul li{
+    list-style-type: square;
+    list-style-position: inside;
+    margin-left: 250px;
+    width: 1000px;
+}
+h2{
+    width: 1000px;
+    background-color: rgba(8, 105, 118, 0.699);
+    margin: auto;
+    padding: 7px;
+    text-align: left;
+    border-bottom: solid black;
+}
+p{
+    text-align: left;
+    margin-left: 250px;
+    
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+a{
+    color: blue;
+}
